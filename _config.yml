@@ -85,11 +85,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Welcome to Prerna IAS Academy"
+    subheading: "Your awesome subheading"
+    banner: "Your image url"
 
 # Pagination setting
 # paginate: 5
