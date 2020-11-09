@@ -88,7 +88,7 @@ yat:
 defaults:
   home:
     heading: "Welcome to Prerna IAS Academy"
-    subheading: "Your awesome subheading"
+    subheading: "Inspiring Excellence"
     banner: "Your image url"
 
 # Pagination setting
